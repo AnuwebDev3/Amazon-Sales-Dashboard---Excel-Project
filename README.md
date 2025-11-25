@@ -9,3 +9,14 @@ This Excel dashboard provides insights into:
   5. Summary pivot tables used to support the visualizations
 
 These insights help identify product popularity, customer satisfaction, and best discount deals.
+
+
+Dataset Attribution
+
+This project uses a publicly available dataset from Kaggle.
+
+Dataset Source: 
+Amazon Product Dataset (Kaggle)
+
+The dataset was created and shared by the original author(s) on Kaggle.  
+Please refer to the dataset’s Kaggle page for complete licensing, permissions, and usage terms.
