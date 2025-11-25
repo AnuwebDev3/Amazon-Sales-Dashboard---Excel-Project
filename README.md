@@ -12,7 +12,6 @@ These insights help identify product popularity, customer satisfaction, and best
 
 
 Dataset Attribution
-
 This project uses a publicly available dataset from Kaggle.
 
 Dataset Source: 
